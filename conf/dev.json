@@ -1,5 +1,4 @@
 {
-
-
-	
+ "mysql_conn_str" : "root:Zcgame?1234@tcp(192.168.1.66:3306)/obuy",
+ "app_log_file"   : "/tmp/zap_out"
 }

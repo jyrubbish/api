@@ -5,5 +5,6 @@ import (
 )
 
 var (
-	memberService *service.MemberService = new(service.MemberService)
+	memberService  *service.MemberService  = new(service.MemberService)
+	productService *service.ProductService = new(service.ProductService)
 )
